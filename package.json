@@ -3,6 +3,7 @@
 	"author": "Shirin Kulkarni",
 	"description": "This project does something awesome",
 	"keywords": [ "awesome", "freecodecamp", "project", "practice" ],
+	"license": "Shirin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
